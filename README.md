@@ -8,7 +8,7 @@ Internal NYSHEX Transaction Data (shipping contracts, carrier performance, produ
 
 External Data (UNCTAD, container tracking providers, government agencies, open data portals)
 # Tools and Technologies Used:
-Chartio (Primary BI tool for data visualization and SQL-based analysis)
+Tableau (Primary BI tool for data visualization and SQL-based analysis)
 
 SQL (Data querying and manipulation)
 
