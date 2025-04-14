@@ -52,13 +52,13 @@ Improve Inspection Processes: Use BI to track inspection failures and adjust rev
 
 Adjust Discount Strategies: Align discounts with shipment modes and product importance for better profitability.
 
-Gender-Based Marketing: Tailor strategies based on purchasing patterns (women buy more, but men give higher ratings).
+Gender-based marketing involves Tailoring strategies based on purchasing patterns (women buy more, but men give higher ratings).
 
 # Conclusion
 By implementing Business Intelligence, NYSHEX can:
 1. Increase operational efficiency through data-driven route and carrier optimization.
-✔ Reduce costs by refining discount structures and minimizing inspection-related revenue losses.
-✔ Enhance decision-making with real-time analytics and predictive insights.
-✔ Improve customer satisfaction by understanding purchasing behaviors and preferences.
+2. Reduce costs by refining discount structures and minimizing inspection-related revenue losses.
+3. Enhance decision-making with real-time analytics and predictive insights.
+4. Improve customer satisfaction by understanding purchasing behaviors and preferences.
 
 This BI-driven approach ensures NYSHEX remains competitive in the dynamic shipping industry while fostering transparency, reliability, and growth.
