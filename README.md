@@ -56,7 +56,7 @@ Gender-Based Marketing: Tailor strategies based on purchasing patterns (women bu
 
 # Conclusion
 By implementing Business Intelligence, NYSHEX can:
-✔ Increase operational efficiency through data-driven route and carrier optimization.
+1. Increase operational efficiency through data-driven route and carrier optimization.
 ✔ Reduce costs by refining discount structures and minimizing inspection-related revenue losses.
 ✔ Enhance decision-making with real-time analytics and predictive insights.
 ✔ Improve customer satisfaction by understanding purchasing behaviors and preferences.
