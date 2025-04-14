@@ -1,2 +1,2 @@
 # NYSHEX-BI-Optimization
-BI for New York Shipping EXchange 
+ Business Intelligence for New York Shipping Exchange (NYSHEX)
