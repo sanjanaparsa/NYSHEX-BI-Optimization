@@ -34,6 +34,7 @@ Provided actionable insights to optimize operations, increase profitability, and
 
 # Snapshot of Dashboard
 Product Performance: Skincare products generated the highest revenue ($241,628).
+![image](https://github.com/user-attachments/assets/0e39a468-dcf7-4f0b-a282-f664ae63e1fb)
 
 Route Efficiency: Route A was the most utilized, while Route C underperformed.
 
