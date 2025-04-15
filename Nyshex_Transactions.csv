@@ -1,0 +1,7 @@
+contract_id,shipper_name,carrier,product_type,route,quantity,revenue_usd,inspection_status,shipment_mode,product_importance,discount_offered
+1001,GlobalCosmetics,Carrier_A,Skincare,Route_A,500,45000,Pass,Flight,High,785
+1002,LuxeHair,Carrier_B,Haircare,Route_B,300,32000,Pending,Road,Medium,3604
+1003,DermaCare,Carrier_C,Skincare,Route_C,200,28000,Fail,Ship,Low,18658
+1004,BeautyPlus,Carrier_A,Cosmetics,Route_A,150,18000,Pass,Flight,Medium,4483
+1005,HairMasters,Carrier_B,Haircare,Route_B,400,41000,Pending,Road,High,900
+1006,SkinElite,Carrier_C,Skincare,Route_A,600,62000,Pass,Ship,High,3604

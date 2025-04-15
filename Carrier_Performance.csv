@@ -1,0 +1,4 @@
+carrier,on_time_delivery_rate(%),cargo_damage_rate(%),avg_shipping_time_days,total_contracts
+Carrier_A,87,2.1,14,120
+Carrier_B,92,1.3,12,95
+Carrier_C,78,3.4,18,60

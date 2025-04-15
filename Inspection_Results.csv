@@ -1,0 +1,7 @@
+inspection_id,contract_id,product_type,result,defect_type,revenue_impact_usd
+INSP001,1001,Skincare,Pass,None,0
+INSP002,1002,Haircare,Pending,Labeling,1200
+INSP003,1003,Skincare,Fail,Leakage,-4500
+INSP004,1004,Cosmetics,Pass,None,0
+INSP005,1005,Haircare,Pending,Packaging,800
+INSP006,1006,Skincare,Pass,None,0
