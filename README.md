@@ -48,15 +48,6 @@ Gender-Based Product Importance and Customer Ratings
 ![image](https://github.com/user-attachments/assets/1458498a-4ed3-45a6-9ae4-e2224baaf930)
 
 
-
-Route Efficiency: Route A was the most utilized, while Route C underperformed.
-
-Carrier Analysis: Carrier B outperformed others in both shipment volume and revenue.
-
-Inspection Impact: Revenue was still generated from pending/failed inspections, requiring BI-driven adjustments.
-
-Discount Strategies: Shipment mode (flight, road, ship) and product importance influenced discount allocations.
-
 # Key Insights and Outcomes
 Optimize Route Allocation: Focus on high-performing routes (e.g., Route A) and reconsider underperforming ones (e.g., Route C).
 
