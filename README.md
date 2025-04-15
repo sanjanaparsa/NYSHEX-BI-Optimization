@@ -33,8 +33,21 @@ Strategic Recommendations:
 Provided actionable insights to optimize operations, increase profitability, and enhance customer satisfaction.
 
 # Snapshot of Dashboard
-Product Performance: Skincare products generated the highest revenue ($241,628).
+
+
+Platform Analysis:
 ![image](https://github.com/user-attachments/assets/0e39a468-dcf7-4f0b-a282-f664ae63e1fb)
+
+Inspection Result vs Products Sold vs Revenue Generated: 
+![image](https://github.com/user-attachments/assets/d1b36b45-7e74-416b-88cd-a48f88022e9c)
+
+Discount Offered by Shipment mode and Product Importance: 
+![image](https://github.com/user-attachments/assets/84cddfb2-5121-4eed-b6a6-20cce9eaa42a)
+
+Gender-Based Product Importance and Customer Ratings
+![image](https://github.com/user-attachments/assets/1458498a-4ed3-45a6-9ae4-e2224baaf930)
+
+
 
 Route Efficiency: Route A was the most utilized, while Route C underperformed.
 
